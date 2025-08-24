@@ -5,9 +5,9 @@
 
 
 ## About
-The goal of this lab is to build a Question Answer (QA) pipeline for financial documents that financial analysts can use to inform their research by processing tons of text based data quickly, and pulling out key insights.
+Build a Question Answer (QA) pipeline for financial documents that financial analysts can use to inform their research by processing tons of text based data quickly, and pulling out key insights.
 
-- Note your results may be different from the solutions. Evaluate your results. 
+- Note results may be different from the solutions. Evaluate your results. 
 
 # Steps:
 1. Build an initial pipeline using a single text document financial_context.
@@ -17,7 +17,7 @@ The goal of this lab is to build a Question Answer (QA) pipeline for financial d
 1. BONUS: Extend the pipeline to a larger set of documents from the FinQA data.
 
 # Data
-In this lab you will data from the FinQA dataset.
+FinQA dataset.
 In the `data` folder you have a copy of the FinQA datasets. 
 - [Original FinQA data](https://finqasite.github.io/index.html)
 - [Hugging Face Question Answering Pipeline](https://huggingface.co/docs/transformers/v4.51.3/en/main_classes/pipelines#transformers.QuestionAnsweringPipeline)
