@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">NLP and LLMs - Lab - Build a Question Answer (QA) Pipeline for Financial Documents</span>
+  <span class="headline">NLP and LLMs - Build a Question Answer (QA) Pipeline for Financial Documents</span>
 </h1>
 
 
